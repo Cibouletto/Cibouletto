@@ -1,12 +1,17 @@
-### Hi there 👋
+### Bonjour à tous 👋 Je m'appelle Arthur, bienvenue sur mon profil GitHub.
+
+- 🔭 Actuellement je suis auto-entrepreneur, je fais de la conception de site web.
+- 🌱 J'apprends Go et Javascript en ce moment.
+- 💬 Demandez-moi des renseignements sur Python je ferais de mon mieux pour t'aider.
 
 <!--
 **Cibouletto/Cibouletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Javascript and Go
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
